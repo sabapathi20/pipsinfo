@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: pipsinfo
+Version: 0.0.3
+Summary: python pip package infromation
+Home-page: UNKNOWN
+Author: smohana1
+Author-email: smohana1@visteon.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operation System :: OS Independent
+License-File: LICENSE
+
+will list the pip package which are installed in the system
+

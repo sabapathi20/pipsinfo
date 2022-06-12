@@ -1,0 +1,7 @@
+LICENSE
+pipsinfo
+setup.py
+pipsinfo.egg-info/PKG-INFO
+pipsinfo.egg-info/SOURCES.txt
+pipsinfo.egg-info/dependency_links.txt
+pipsinfo.egg-info/top_level.txt
